@@ -1,0 +1,15 @@
+[package]
+name = "scupt"
+version = "0.0.1"
+edition = "2021"
+authors = ["Guo Hua <guohua16@outlook.com>"]
+description = "scupt util library"
+repository = "https://github.com/scuptio/scupt/"
+homepage = "https://github.com/scuptio/"
+documentation = "https://github.com/scuptio/scupt/README.md"
+readme = "README.md"
+license = "Apache-2.0"
+
+
+
+[dependencies]
